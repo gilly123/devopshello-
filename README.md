@@ -1,1 +1,3 @@
-# devopshello-
+# maven-project
+
+Simple Maven Project
